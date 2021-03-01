@@ -15,7 +15,7 @@ Tech Stack: ReactJS, Node/Express, PostgreSQL, Webpack, Axios, Sass, Twilio, Str
 
 ## Walkthrough
 
-<!-- !["Walkthrough Gif"]() -->
+!["Walkthrough Gif"](https://github.com/josepwil/portfolio/blob/main/static/assets/walkthrough-beanli.gif?raw=true)
 
 ## Features
 

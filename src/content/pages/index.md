@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-Tech Recruiter turned software developer
+Tech Recruiter turned Full Stack Developer, based in Vancouver BC.

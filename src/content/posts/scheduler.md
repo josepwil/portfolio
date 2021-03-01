@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Schedulder
+title: Scheduler
 slug: /scheduler
 date: 2021-01-23 23:40
 description: A Single Page Application built using ReactJS. It leverages React hooks (both built in and custom) and Websockets to enable students to book and manage interviews with a mentor in real time.

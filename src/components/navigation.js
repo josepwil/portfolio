@@ -18,10 +18,6 @@ const MenuItems = [
     path: "/projects",
     title: "Projects",
   },
-  {
-    path: "/contact",
-    title: "Contact",
-  },
 ]
 
 const ListLink = props => (
@@ -49,6 +45,13 @@ class Navigation extends React.Component {
         {menuItem.title}
       </ListLink>
     ))
+    listMenuItems.push(
+      <li>
+        <a href="https://resume.creddle.io/resume/h0qwnotmxld" target="_blank">
+          Resume
+        </a>
+      </li>
+    )
     return (
       <nav className="site-navigation" sx={navStyle.menu}>
         <button

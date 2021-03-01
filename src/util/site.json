@@ -2,11 +2,11 @@
   "meta": {
     "title": "JW Portfolio",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "A portfolio by Joseph Williams",
     "siteUrl": "https://josepwil.netlify.app",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/notebook.png",
+    "iconimage": "/assets/notebook.png",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }

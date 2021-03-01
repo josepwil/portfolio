@@ -35,9 +35,10 @@ export const blogListQuery = graphql`
           id
           excerpt(pruneLength: 250)
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "MMMM, YYYY")
             slug
             title
+            description
             featuredImage {
               childImageSharp {
                 fluid(maxWidth: 540, maxHeight: 360, quality: 80) {
@@ -120,7 +121,7 @@ class BlogIndex extends React.Component {
             "Stackrole base blog page " + currentPage + " of " + numPages
           }
         />
-        <h1>Blog</h1>
+        <h1>Projects</h1>
         <div className="grids col-1 sm-2 lg-3">{posts}</div>
         <Pagination {...props} />
       </Layout>

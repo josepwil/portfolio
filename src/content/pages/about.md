@@ -16,7 +16,7 @@ The more I coded the more I fell in love with coding, sure there were times when
 
 After a while it became pretty apparent to me that I wanted to take this further, make a career switch and transition into the industry. One of the first friends I made in Vancouver happened to have done a similar thing after attending Lighthouse Labs and getting a diploma in Web Development so I figured that could be the way to go and submitted my application.
 
-I wanted to make sure that I was as prepared as I could be, so that I could make the most of my experience and maximise the amound I learned from the course. To that end I decided to enroll in CS50, Harvards introduction to Computer Science. This was a 12 week part time course that I could do online, comprised of weekly problem sets and one final project.
+I wanted to make sure that I was as prepared as I could be, so that I could make the most of my experience and maximize the amount I learned from the course. To that end I decided to enroll in CS50, Harvards introduction to Computer Science. This was a 12 week part time course that I could do online, comprised of weekly problem sets and one final project.
 
 I am very happy that I took CS50, it really reinforced the programming knowledge I had accumulated up to that point and helped me think programmtically. It also exposed me to some languages I had not used before notably C and SQL. I completed the course, with my final project being an application for finding and logging hikes, built using Python/Flask.
 

@@ -24,6 +24,6 @@ In November 2020 I left my job in recruitment and started at Lighthouse Labs ful
 
 I learnt new languages (Ruby) and finally got to work with React - I had been putting off jumping into React too early on my own as I wanted to cement my understanding/ability with vanilla javascript first.
 
-The course was fantastic, I could feel my skills improving on a daily basis and got to work on a ton of projects both individually and as part of a team, some of which you will see highlighted on this site. This culminated in our final and largest group project Beanli.
+The course was fantastic, I could feel my skills improving on a daily basis and I got to work on a ton of projects both individually and as part of a team, some of which you will see highlighted on this site. This culminated in our final and largest group project Beanli.
 
 At the end of February I graduated from Lighthouse Labs with a Diploma of Web Development and that brings us to today and writing this first 'About' section. I'll be continuing to build projects and at the same time trying to land my first job as a Developer.

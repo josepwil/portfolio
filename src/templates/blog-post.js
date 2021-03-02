@@ -94,7 +94,9 @@ const Post = ({ data, pageContext }) => {
         <header className="featured-banner">
           <section className="article-header">
             <h1>{frontmatter.title}</h1>
-            <time>{frontmatter.date}</time>
+            <time style={{ color: "rgb(179 178 178)" }}>
+              {frontmatter.date}
+            </time>
           </section>
         </header>
 

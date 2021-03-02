@@ -11,4 +11,4 @@ A simple Tic-tac-toe game, where a user can 'travel back in time' to see previou
 
 Tech Stack: reactjs
 
-[Check out the code on github](https://github.com/josepwil/react-tic-tac-toe)
+[Click here to check out the code on github](https://github.com/josepwil/react-tic-tac-toe)

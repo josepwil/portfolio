@@ -11,7 +11,7 @@ Beanli is a Single Page Full-Stack Application that rewards customers with 'bean
 
 Tech Stack: ReactJS, Node/Express, PostgreSQL, Webpack, Axios, Sass, Twilio, Stripe, Leaflet
 
-[Check out the code on github](https://github.com/josepwil/beanli)
+[Click here to check out the code on github](https://github.com/josepwil/beanli)
 
 ## Walkthrough
 

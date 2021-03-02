@@ -11,7 +11,7 @@ A full stack e-commerce application built with Ruby on Rails.
 
 Tech Stack: Ruby, Rails, RSpec, Poltergeist/Capybara, ERB, Stripe API, Active Record, Postgres
 
-[Check out the code on github](https://github.com/josepwil/jungle_rails)
+[Click here to check out the code on github](https://github.com/josepwil/jungle_rails)
 
 ## Final Product
 

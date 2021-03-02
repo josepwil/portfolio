@@ -9,7 +9,7 @@ featuredImage: /assets/featured-tweeter.png
 
 Tweeter is a simple, single-page Twitter clone. Built using HTML, CSS, JS, jQuery and AJAX on the front-end, with Node and Express on the back-end.
 
-[Check out the code on github](https://github.com/josepwil/tweeter)
+[Click here to check out the code on github](https://github.com/josepwil/tweeter)
 
 ## Final Product
 

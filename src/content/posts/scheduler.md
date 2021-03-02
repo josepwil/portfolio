@@ -11,7 +11,7 @@ Scheduler is a Single Page Application built using ReactJS. It leverages React h
 
 Tech Stack: ReactJS, PostgreSQL, Webpack, Axios, WebSockets, Jest, React Testing Library, Storybook, Cypress
 
-[Check out the code on github](https://github.com/josepwil/scheduler)
+[Click here to check out the code on github](https://github.com/josepwil/scheduler)
 
 Project is live [here](https://priceless-meitner-de0ef2.netlify.app)
 (It may take a few moments for the appointments to load in as Heroku warms up)

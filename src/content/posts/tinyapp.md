@@ -11,7 +11,7 @@ TinyApp is a full stack web application that allows users to shorten long URLs (
 
 Tech Stack: Node/Express, EJS
 
-[Check out the code on github](https://github.com/josepwil/tinyapp)
+[Click here to check out the code on github](https://github.com/josepwil/tinyapp)
 
 ## Final Product
 

@@ -11,7 +11,7 @@ Decision Maker is a Full Stack application that helps users make decisions by cr
 
 Tech Stack: JS, jQuery, AJAX, Node/Express, Postgres
 
-[Check out the code on github](https://github.com/josepwil/DecisionMaker)
+[Click here to check out the code on github](https://github.com/josepwil/DecisionMaker)
 
 ## Final Product
 

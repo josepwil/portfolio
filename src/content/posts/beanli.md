@@ -34,3 +34,41 @@ Tech Stack: ReactJS, Node/Express, PostgreSQL, Webpack, Axios, Sass, Twilio, Str
 
 - A store owner can see when they have a new order
 - A store owner can mark the order as completed by dragging and dropping it into the completed section which will send an SMS to the customer
+
+## Development Process
+
+### The Idea
+
+I am fan of the rewards systems offered by companies like Starbucks/Tim hortons, but of course those rewards are only limited to those particular stores. I also like trying new places and local coffee shops in particular.
+
+Beanli seeks to solve that problem through a reward based system whereby a user can earn 'beans' at any store on the app and redeem those 'beans' at any store too, in order to discount the total price of their order.
+
+### User Stories
+
+We mapped out all of the features and what we thought a user should be able to do using the application both from the customer and store owner's perspective.
+
+### The Tech Stack
+
+We came together as a group to decide on what the appropriate stack was for the features we intended to implement. As well as any additional libraries we would need to use / APIs we would need to interact with.
+
+### ERD
+
+We spent some time designing our database by creating an ERD, which you can see below.
+![ERD](/assets/beanli-erd.png)
+
+### The Routes
+
+After finalizing our ERD we followed Restful practices to plan out our routes.
+
+### Wire Frames
+
+We created some basic mock ups of the design/layout of our UI using figma, one such example is below.
+![Wireframe](/assets/beanli-wireframe.png)
+
+### Stand Ups
+
+We had 2 daily stand ups, one at the start of the day and one at the end to keep track of each others progress or any difficulties that anyone was facing. We would also pair program any particularly difficult road blocks.
+
+### Development
+
+We leveraged github projects to break development down into small sections, we would select an issue from the project board, create a branch and work on that issue. Upon finishing work on that branch we would submit a pull request that had to be approved by another team member before it was merged into the main branch.

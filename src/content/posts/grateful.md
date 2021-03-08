@@ -9,7 +9,7 @@ featuredImage: /assets/progress-work.jpg
 
 A simple app that allows users to enter a short (tweet length) gratitude and have the app send them texts to remind them of past gratitudes. Users will be able to access their past gratitudes and will be able to easily tell how many gratitudes they have written and submitted. The app will then send an SMS message to the users a specified number of times during the week (users will be able to turn modify and turn on/off this setting).
 
-<strong>Tech Stack: ReactJS, Node/Express, PostgreSQL, Twilio, Passport, D3.js</strong>
+<strong>Tech Stack: Typescript, ReactJS, NextJS, Node/Express, PostgreSQL, Twilio, Passport, D3.js</strong>
 
 I am working with my good friend Mel (Frontend Engineer at Zenhub) on this project, [Click here to check out the code on github so far](https://github.com/melchua/grateful)
 

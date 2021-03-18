@@ -9,7 +9,7 @@ featuredImage: /assets/featured-portfolio.png
 
 My portfolio, where I display all of my work. For this project I took an existing blog template and retrofitted it for my needs.
 
-Tech Stack: ReactJS, GatsbyJS, Sass, GraphQL
+<strong>Tech Stack: ReactJS, GatsbyJS, Sass, GraphQL</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/portfolio)
 

@@ -9,4 +9,6 @@ featuredImage: /assets/progress-work.jpg
 
 A full stack application where a user can store personalized maps. For example a user could store a 'Best Pizza in Vancouver' map which would have markers for all of their favourite pizza spots in the city. A user can create new maps and edit existing ones.
 
-Tech Stack: ReactJS, Ruby on Rails, Postgres, Leaflet, Material-UI
+<strong>Tech Stack: ReactJS, Ruby on Rails, Postgres, Leaflet, Material-UI</strong>
+
+[Click here to check out the code on github so far](https://github.com/josepwil/mapper)

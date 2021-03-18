@@ -9,7 +9,7 @@ featuredImage: /assets/featured-decisionMaker.png
 
 Decision Maker is a Full Stack application that helps users make decisions by creating and sharing polls with their friends, the results are then visualized using graphs.
 
-Tech Stack: JS, jQuery, AJAX, Node/Express, Postgres
+<strong>Tech Stack: JS, jQuery, AJAX, Node/Express, Postgres</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/DecisionMaker)
 

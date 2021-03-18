@@ -9,7 +9,7 @@ featuredImage: /assets/featured-myhike.png
 
 An application for finding and tracking hikes/trails.
 
-Tech Stack: Python/Flask, Javascript, SQLite, Jinja, Hiking Project API, mapquest
+<strong>Tech Stack: Python/Flask, Javascript, SQLite, Jinja, Hiking Project API, mapquest</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/CS50-projects/tree/main/project)
 

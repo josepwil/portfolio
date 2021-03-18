@@ -9,7 +9,7 @@ featuredImage: /assets/featured-beanli.jpg
 
 Beanli is a Single Page Full-Stack Application that rewards customers with 'beans' for ordering at local coffee shops and allows store owners to manage incoming orders.
 
-Tech Stack: ReactJS, Node/Express, PostgreSQL, Webpack, Axios, Sass, Twilio, Stripe, Leaflet
+<strong>Tech Stack: ReactJS, Node/Express, PostgreSQL, Webpack, Axios, Sass, Twilio, Stripe, Leaflet</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/beanli)
 

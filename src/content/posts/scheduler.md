@@ -9,7 +9,7 @@ featuredImage: /assets/featured-scheduler.jpg
 
 Scheduler is a Single Page Application built using ReactJS. It leverages React hooks (both built in and custom) and Websockets to enable students to book and manage interviews with a mentor in real time.
 
-Tech Stack: ReactJS, PostgreSQL, Webpack, Axios, WebSockets, Jest, React Testing Library, Storybook, Cypress
+<strong>Tech Stack: ReactJS, PostgreSQL, Webpack, Axios, WebSockets, Jest, React Testing Library, Storybook, Cypress</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/scheduler)
 

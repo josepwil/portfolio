@@ -2,7 +2,7 @@
 template: blog-post
 title: Grateful
 slug: /grateful
-date: 2021-03-04 23:40
+date: 2021-04-04 23:40
 description: A simple app that allows users to enter a short (tweet length) gratitude and have the app send them texts to remind them of past gratitudes.
 featuredImage: /assets/progress-work.jpg
 ---

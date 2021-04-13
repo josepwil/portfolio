@@ -9,7 +9,7 @@ featuredImage: /assets/mapper_homepage.png
 
 Mapper is a Single Page Full-Stack Application that allows users to create and store personalized maps.
 
-<strong>Tech Stack: ReactJs, Ruby/Rails, PostgreSQL, Sass, Axios, Material UI, Leaflet</strong>
+<strong>Tech Stack: ReactJS, Ruby/Rails, PostgreSQL, Sass, Axios, Material UI, Leaflet</strong>
 
 [Click here to check out the code on github](https://github.com/josepwil/mapper)
 
